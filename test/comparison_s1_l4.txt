@@ -1,0 +1,6 @@
+Tile S1 L4 (Efficiency < 0.9):
+Note: Voltage data may be missing or zero for some runs.
+Other Runs (Efficiency < 0.9):
+Run 20015.0, Efficiency 0.885, Voltage 489.955 V
+Run 20017.0, Efficiency 0.839, Voltage 489.955 V
+Run 20079.0, Efficiency 0.875, Voltage 489.985 V

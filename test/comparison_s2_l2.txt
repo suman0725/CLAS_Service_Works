@@ -1,0 +1,4 @@
+Tile S2 L2 (Efficiency < 0.9):
+Note: Voltage data may be missing or zero for some runs.
+Other Runs (Efficiency < 0.9):
+Run 20014.0, Efficiency 0.100, Voltage 530.075 V

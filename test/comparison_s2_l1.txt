@@ -1,0 +1,3 @@
+Tile S2 L1 (Efficiency < 0.9):
+Note: Voltage data may be missing or zero for some runs.
+Other Runs (Efficiency < 0.9):
